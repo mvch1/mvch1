@@ -6,20 +6,18 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mvch1&label=Profile%20Views&color=6b3fa0&style=plastic" alt="Profile Views" height="35px" width="160px"/>
-</p>
 
 ---
 
 ## 🧐 About Me
 
 - 🎓 I'm a **3rd-year student in Computer Science & Management (MIAGE)** at the **Faculté des Sciences et Techniques (FST), Université de Nouakchott**, and an **Engineering student in Computer Science, Networks & Telecommunications** at **ESP**.
-- 💼 Currently an **Assistant Engineer Intern** at **Soft Horizon**, and previously at **IBTIKAR Technologies**.
-- 🏦 Built several **full-stack systems for the Banque Nationale de Mauritanie (BNM)**: an intelligent WhatsApp customer assistant, an agent backoffice, and a prepaid card mobile app.
+- 💼 Currently an **Assistant Engineer Intern** at **Soft Horizon**, after a **6-month internship at the Banque Nationale de Mauritanie (BNM)**.
+- 🏦 Built an **intelligent WhatsApp customer assistant** and a **prepaid card mobile app** for the **Banque Nationale de Mauritanie (BNM)**.
+- 🗂️ Built an **agent backoffice** for centralized customer service management at the **BNM**.
 - 🛡️ Developed **The Guardians**, an AI app that helps parents understand the daily difficulties teenagers face online and in real life — **recommended by UNICEF** and **award-winner at the Nouakchott AI Build (NAIB)** hackathon.
-- 🥉 **3rd place out of 728 teams** (+ 1st place in a secondary challenge) at **La Nuit de l'Info 2024**.
-- 💡 Passionate about **Artificial Intelligence, NLP, Cybersecurity and Entrepreneurship** — I like turning ideas into real, usable products.
+- 💪 Strong in **Web & Mobile Development**, and **RAG / LLMs**.
+- 💡 Passionate about **Artificial Intelligence, Cybersecurity and Entrepreneurship** — I like turning ideas into real, usable products.
 - 🌍 Trilingual: Arabic (native), French (C1), English.
 
 ---
@@ -86,20 +84,13 @@
 ## 🚀 Featured Projects
 
 - 🛡️ **The Guardians** — AI application helping parents understand the daily difficulties teenagers face on social media and online; recommended by **UNICEF**, award-winner at the **NAIB hackathon**.
-- 🏦 **BNM Intelligent Systems** — WhatsApp-connected intelligent customer assistant, agent backoffice, and prepaid card mobile app for the Banque Nationale de Mauritanie.
-- 🤖 **ESP ChatBot** — Multilingual AI assistant (French/English/Arabic) presented at the Nouakchott Congress on Artificial Intelligence (NAIC).
-- 📋 [Suivi de Tâche (Frontend)](https://github.com/mvch1/suivie-tache-frontend-s4) & [Suivi de Tâche (Backend)](https://github.com/mvch1/suivie_de_tache_backend_S4) — Task tracking web app, S4 Scrum project.
-- 📊 [Recherche Opérationnelle S4](https://github.com/mvch1/recherche-operationnelle-S4) — Operations research notebooks and models.
-- 🗂️ [Projet CMS S4](https://github.com/mvch1/projet-cms-S4) — Content management system project.
-- ⛏️ [Projet Data Mining S4](https://github.com/mvch1/projet-data-mining-s4) — Data mining coursework project.
-
+- 🤖 **BNM Intelligent WhatsApp Assistant** — Intelligent customer interaction system connected to WhatsApp for the Banque Nationale de Mauritanie.
+- 🗂️ **BNM Agent Backoffice** — Backoffice platform for centralized management of BNM customer services and support.
 ---
 
 ## 🏆 Achievements
 
 - 🥇 **Nouakchott AI Build (NAIB) 2026** — Award winner with **The Guardians**, recommended by **UNICEF**.
-- 🤖 **NAIC — ESP ChatBot 2025** — Participation in the Nouakchott Congress on Artificial Intelligence.
-- 🥉 **La Nuit de l'Info 2024** — 3rd place out of 728 teams in the main challenge, 1st place in a secondary challenge.
 
 ---
 
