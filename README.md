@@ -11,8 +11,8 @@
 
 ## 🧐 About Me
 
-- 🎓 I'm a **3rd-year student in Computer Science & Management (MIAGE)** at the **Faculté des Sciences et Techniques (FST), Université de Nouakchott**, and an **Engineering student in Computer Science, Networks & Telecommunications** at **ESP**.
-- 💼 Currently an **Assistant Engineer Intern** at **Soft Horizon**, after a **6-month internship at the Banque Nationale de Mauritanie (BNM)**.
+- 🎓 I'm a **3rd-year student in Computer Science & Management (MIAGE)** at the **Faculté des Sciences et Techniques (FST), Université de Nouakchott**.
+- 💼 Currently an **Assistant Engineer Intern** at **Banque Nationale de Mauritanie (BNM)**.
 - 🏦 Built an **intelligent WhatsApp customer assistant** and a **prepaid card mobile app** for the **Banque Nationale de Mauritanie (BNM)**.
 - 🗂️ Built an **agent backoffice** for centralized customer service management at the **BNM**.
 - 🛡️ Developed **The Guardians**, an AI app that helps parents understand the daily difficulties teenagers face online and in real life — **recommended by UNICEF** and **award-winner at the Nouakchott AI Build (NAIB)** hackathon.
